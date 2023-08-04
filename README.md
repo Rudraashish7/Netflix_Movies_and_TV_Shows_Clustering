@@ -1,6 +1,6 @@
 # Netflix_Movies_and_TV_Shows_Clustering
 
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fabout.netflix.com%2Fen%2Fnews%2Flet-the-games-begin-a-new-way-to-experience-entertainment-on-mobile&psig=AOvVaw0YWrCHBCWYEfacg-b6Ft86&ust=1691238603822000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMjepPOAw4ADFQAAAAAdAAAAABAo)
+![](https://in.pinterest.com/pin/993677105262345817/)
 
 
 ### Introduction
