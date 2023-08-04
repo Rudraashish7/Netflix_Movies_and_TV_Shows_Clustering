@@ -1,6 +1,6 @@
 # Netflix_Movies_and_TV_Shows_Clustering
 
-![](https://i.pinimg.com/736x/1e/52/ec/1e52ecd2c2cb42225c1d1e34f3b65639.jpg)
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fnetflix-intro-netflix-netflix-opening-gif-21209311&psig=AOvVaw0YWrCHBCWYEfacg-b6Ft86&ust=1691238603822000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMjepPOAw4ADFQAAAAAdAAAAABAR)
 
 
 ### Introduction
