@@ -1,6 +1,6 @@
 # Netflix_Movies_and_TV_Shows_Clustering
 
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fnetflix-intro-netflix-netflix-opening-gif-21209311&psig=AOvVaw0YWrCHBCWYEfacg-b6Ft86&ust=1691238603822000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMjepPOAw4ADFQAAAAAdAAAAABAR)
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fabout.netflix.com%2Fen%2Fnews%2Flet-the-games-begin-a-new-way-to-experience-entertainment-on-mobile&psig=AOvVaw0YWrCHBCWYEfacg-b6Ft86&ust=1691238603822000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMjepPOAw4ADFQAAAAAdAAAAABAo)
 
 
 ### Introduction
