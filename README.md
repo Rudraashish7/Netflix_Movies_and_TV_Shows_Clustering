@@ -1,6 +1,6 @@
 # Netflix_Movies_and_TV_Shows_Clustering
 
-![](https://in.pinterest.com/pin/993677105262345817/)
+![](https://www.protocol.com/media-library/netflix-queried-people-in-a-survey-about-a-wide-range-of-features-and-content-including-podcasts-user-generated-playlists-how.jpg?id=24541797&width=1200&height=600&coordinates=0%2C501%2C0%2C502)
 
 
 ### Introduction
