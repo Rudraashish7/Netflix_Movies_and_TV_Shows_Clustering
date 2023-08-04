@@ -35,7 +35,7 @@ As our quest draws to a close, we'll lay bare the insights that lie hidden withi
 So, dear adventurer, are you ready to take the plunge into the enigmatic world of Netflix's content? Prepare to be mesmerized by data-driven storytelling, where numbers and entertainment unite in a spectacle of insight and discovery. 🌌✨
 
 **************************************************************************************************************************************************
-For a complete project video explanation and to download the dataset: [Click here](https://drive.google.com/drive/folders/1rhMrhCXsIxd3veJvPRtw46Ec_rmL7-9v?usp=sharing)
+For a complete project video explanation and to download the dataset: [Click here](https://drive.google.com/drive/u/0/folders/1ur7d73tA8CUBe1cNeXpWrHIeh0GI5TZg)
 
 Feel free to explore the repository for further insights into the code implementation, methodology, and findings.
 
